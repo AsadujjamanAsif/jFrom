@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ActionDemo",
+            "request": "launch",
+            "mainClass": "ActionDemo",
+            "projectName": "JFrom_212532f9"
+        },
+        {
+            "type": "java",
+            "name": "TextFieldDemo",
+            "request": "launch",
+            "mainClass": "TextFieldDemo",
+            "projectName": "JFrom_212532f9"
+        },
+        {
+            "type": "java",
+            "name": "demo3",
+            "request": "launch",
+            "mainClass": "demo3",
+            "projectName": "JFrom_212532f9"
+        },
+        {
+            "type": "java",
             "name": "LabeDemo2",
             "request": "launch",
             "mainClass": "LabeDemo2",
